@@ -1,6 +1,6 @@
 import * as foo from 'foo';
-
 foo.bar;
 
-import * as baz from 'dep';
-
+// Uncomment this to reproduce the error
+// import * as baz from 'dep';
+// baz.bar;
