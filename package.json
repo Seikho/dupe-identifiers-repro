@@ -1,9 +1,23 @@
 {
+  "name": "dupe-identifiers-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "typescript": "^2.1.0-dev.20160801"
   },
+  "devDependencies": {},
   "scripts": {
     "build": "tsc"
   },
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seikho/dupe-identifiers-repro.git"
+  },
+  "author": "Carl Winkler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seikho/dupe-identifiers-repro/issues"
+  },
+  "homepage": "https://github.com/seikho/dupe-identifiers-repro#readme"
 }
