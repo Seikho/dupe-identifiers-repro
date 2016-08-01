@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "^2.1.0-dev.20160801"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {}
+}
