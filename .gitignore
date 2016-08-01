@@ -1,3 +1,5 @@
+node_modules/typescript
+node_modules/.bin
 *.log
 .vscode
 *.js
